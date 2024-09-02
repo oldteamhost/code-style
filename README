@@ -4,4 +4,13 @@
 
 * Indent with 2 spaces, not tabs    * For comments use only /**/         * Try to write without libraries
 * No trailing whitespace            * Perror style [func_name/error]     * There's nothing that can't be written
-* Use only snake_case               * Goto and Macros are not bad code   * Failure understand means looking deeper
+* Use only snake_case or flatcase   * Goto and Macros are not bad code   * Failure understand means looking deeper
+
+
+
+
+                                                      СТИЛЬКОДА
+
+* Отступ 2 пробела, а не табуляции  * Для комментариев только /**/       * Старайтесь писать без библиотек
+* Никаких whitespace                * Perror style [func_name/error]     * Можно написать все
+* Только snake_case or flatcase     * Goto и Макросы не есть плохой код  * Не понимать - значит смотреть глубже
